@@ -1,0 +1,10 @@
+.main-container{
+    display: flex;
+}
+.course-section{
+    width: 75%;
+    border-right: 1px solid gray;
+}
+.cart-section{
+    width: 25%;
+}

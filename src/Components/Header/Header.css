@@ -1,0 +1,20 @@
+.header-container img{
+    height: 100px;
+    justify-content: left;
+}
+.menu-container{
+    background-color:lightgray;
+    height: 70px;
+}
+/* .menu{
+    padding-top: 20px;
+} */
+.menu a{
+    padding:20px;
+    color: black;
+    text-decoration:none;
+    font-weight: bold;
+}
+.menu a:hover{
+    background-color: cornflowerblue;
+}

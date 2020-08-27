@@ -1,0 +1,13 @@
+.content-container{
+    display: flex;
+    margin: 20px;
+}
+.image img{
+    width: 35%;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+}
+.course-info{
+    margin-left: 25px;
+}
